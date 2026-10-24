@@ -6,14 +6,14 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastianillges&theme=github_dark&animation=sequence&duration=1&name=Sebastian+Illges&title_color=ffffff&chart_color=c0c0c0" />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebastianillges&theme=github_dark&animation=sequence&duration=1&title_color=ffffff&chart_color=c0c0c0" />
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sebastianillges&theme=github_dark&animation=sequence&duration=1&title_color=ffffff&chart_color=c0c0c0" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sebastianillges&theme=github_dark&animation=sequence&duration=1&title_color=ffffff&chart_color=c0c0c0" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sebastianillges&theme=github_dark&animation=sequence&duration=1&utcOffset=0&title_color=ffffff&chart_color=c0c0c0" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" />
 
 </div>
